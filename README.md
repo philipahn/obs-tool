@@ -4,7 +4,7 @@ Problem: Observations are by natural informal sit-ins/recordings where evaluator
 Hypothesis: 
 
 
-##Features v1.1 MVP
+##Features v1.0 MVP (9/28)
 1. Log-in screen
 - [ ] Log-in with GA email
 
