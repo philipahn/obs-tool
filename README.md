@@ -40,12 +40,8 @@ Hypothesis:
 | Variable  | Heading | Sample input
 --- | --- | ---
 | Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
---- | --- | ---
 | Course Instance | instance | WDI13 | 
---- | --- | ---
 | Metro | metro | DC, CHI, ATL | 
---- | --- | ---
-
 | Unique instructor ID | sdfafd | 
 --- | ---
 | Instructor name | 
