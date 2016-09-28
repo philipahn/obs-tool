@@ -36,9 +36,11 @@ Hypothesis:
  
 
 ##Database Glossary
-Variable | Data
-----------------
-Unique instructor ID | 
+
+| Variable | Data |
+--- | ---
+| Unique instructor ID | sdfafd | 
+--- | ---
 Instructor name
 
 
