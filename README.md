@@ -35,4 +35,11 @@ Hypothesis:
 - [ ] Observations stack on top of each other and easy to browse through
  
 
+##Database Glossary
+Variable | Data
 
+
+
+
+##Features in mind
+* Pizza
