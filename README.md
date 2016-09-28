@@ -1,7 +1,7 @@
 # obs-tool
 Observations at DC (and probably other campuses) are by nature, informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations that an Instructional Leader may have to go through per-sitting, there's difficulty for campus leaders to keep track of obsrvations and keep all Instructional Leaders accountable. In order to keep track of all observations that are occurring  There's a need to maximize the efficiency of the 
 
-An observation tool 
+An observation tool that easily organizes and compiles all observations as data points could lead to further data analysis and make the observation cycle transparent. Evaluators will have an easier time making observations and keeping track of his or her progress, while also holding everyone who makes observations accountable. Campus leaders and Global can keep track of not only how many observations are taking place, but what's going on by having access to evaluator notes. 
 
 ##Features v1.0 MVP (9/28)
 1. Log-in screen
