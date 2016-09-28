@@ -1,8 +1,7 @@
 # obs-tool
-Problem: Observations are by natural informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations, 
+Observations at DC (and probably other campuses) are by nature, informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations that an Instructional Leader may have to go through per-sitting, there's difficulty for campus leaders to keep track of obsrvations and keep all Instructional Leaders accountable. In order to keep track of all observations that are occurring  There's a need to maximize the efficiency of the 
 
-Hypothesis: 
-
+An observation tool 
 
 ##Features v1.0 MVP (9/28)
 1. Log-in screen
@@ -66,4 +65,6 @@ Hypothesis:
 * Create dummy website that doesn't show any data and sample instructor names (in case we franchise this) 
 * Optimize navigation (especially when including evaluations) 
 * Evaluations page - let's work on this way later
-* 
+* Make desktop shortcut
+* Optimize load speeds 
+* Make it pretty
