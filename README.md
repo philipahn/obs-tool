@@ -37,11 +37,17 @@ Hypothesis:
 
 ##Database Glossary
 
-| Variable | Data |
+| Variable  | Heading | Sample input
 --- | ---
+| Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
+--- | ---
+| Course Instance | instance | WDI13 | 
+--- | ---
+| Metro | DC or CHI or 
 | Unique instructor ID | sdfafd | 
 --- | ---
-Instructor name
+| Instructor name | 
+--- | ---
 
 
 
