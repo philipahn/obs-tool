@@ -12,10 +12,27 @@ Hypothesis:
 - [ ] List of instructors added to navigation bar
 - [ ] Filter by instructor
 - [ ] Add new instructor
-    - Add new instructor
-      - [ ] Input Instructor Name
-      - [ ] Choose metro: DC, ATL, CHI
-      - [ ] Submit
-      - [ ] Cancel
-      
-      
+  - [ ] Input Instructor Name
+  - [ ] Choose metro: DC, ATL, CHI
+  - [ ] Submit
+  - [ ] Cancel
+- [ ] List of all instructors (alphabetically) 
+
+3. Observation page (per instructor)
+- [ ] View Instructor name
+- [ ] Add new observation
+    - [ ] Create new observation text editor 
+        - [ ] Space to input Instance
+        - [ ] Space to input Date of class
+        - [ ] Open text editor
+        - [ ] Add outside the box: 
+            - [ ] New observation created by "Username"
+            - [ ] Last edited
+            - [ ] Delete observation function
+            - [ ] Edit observation function
+    - [ ] Tags that can be checked: Lesson Planning, Lesson Framing, Instruction, Checks for Understanding, Active Learning, Classroom Culture
+- [ ] Return home (empty, soon to be dashboard)
+- [ ] Observations stack on top of each other and easy to browse through
+ 
+
+
