@@ -20,7 +20,7 @@ Hypothesis:
 
 3. Observation page (per instructor)
 - [ ] View Instructor name
-- [ ] Add new observation
+- [ ] Add new observation - this would add a row to the database 
     - [ ] Create new observation text editor (place to input 
         - [ ] Space to input Instance
         - [ ] Space to input 'Date of class MM/DD/YY'
@@ -55,10 +55,15 @@ Hypothesis:
 
 
 ##Features in mind
-* Evaluations page
 * Instructor dashboard when clicking on instructor
 * Campus dashboards 
+  * Count number of observations during quarter
+  * List current on-going classes (look at Spacey?)
+  * List recent observations (include: Instructor name, Instance, date, Evaluator) 
 * Filtering options
   * Filter by Instance
   * Filter by Metro
- 
+* Create dummy website that doesn't show any data and sample instructor names (in case we franchise this) 
+* Optimize navigation (especially when including evaluations) 
+* Evaluations page - let's work on this way later
+* 
