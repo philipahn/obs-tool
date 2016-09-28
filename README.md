@@ -38,12 +38,14 @@ Hypothesis:
 ##Database Glossary
 
 | Variable  | Heading | Sample input
---- | ---
+--- | --- | ---
 | Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
---- | ---
+--- | --- | ---
 | Course Instance | instance | WDI13 | 
---- | ---
-| Metro | DC or CHI or 
+--- | --- | ---
+| Metro | metro | DC, CHI, ATL | 
+--- | --- | ---
+
 | Unique instructor ID | sdfafd | 
 --- | ---
 | Instructor name | 
