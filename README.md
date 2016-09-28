@@ -12,18 +12,18 @@ Hypothesis:
 - [ ] List of instructors added to navigation bar
 - [ ] Filter by instructor
 - [ ] Add new instructor
-  - [ ] Input Instructor Name
-  - [ ] Choose metro: DC, ATL, CHI
-  - [ ] Submit
-  - [ ] Cancel
+  - [ ] Input 'Instructor Name'
+  - [ ] Choose metro: 'DC', 'ATL', 'CHI'
+  - [ ] 'Submit' button 
+  - [ ] 'Cancel' button
 - [ ] List of all instructors (alphabetically) 
 
 3. Observation page (per instructor)
 - [ ] View Instructor name
 - [ ] Add new observation
-    - [ ] Create new observation text editor 
+    - [ ] Create new observation text editor (place to input 
         - [ ] Space to input Instance
-        - [ ] Space to input Date of class
+        - [ ] Space to input 'Date of class MM/DD/YY'
         - [ ] Open text editor
         - [ ] Add outside the box: 
             - [ ] New observation created by "Username"
@@ -40,19 +40,21 @@ Hypothesis:
 | Variable  | Heading | Format/Sample
 --- | --- | ---
 | Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
-| Course Instance | instance | WDI13 | 
-| Metro | metro | DC, CHI, ATL | 
+| Course Instance | instance | WDI13 |
+| Metro | metro | DC, CHI, ATL |
 | Unique instructor ID | uniqueID | 00420 
 | Instructor name | inst_name | Andy Kim
 | Observation type | obs_type | 0 = observation; 1 = evaluation
-| Observation notes
-| Lesson Prep
-| Lesson Framing
-| Instruction
-| Checks for understanding
-| Active learning
+| Observation notes | obs_notes | Any really particular string....
+| Lesson Prep | prep | 0 = not tagged; 1 = tagged
+| Lesson Framing | framing | 0 = not tagged; 1 = tagged  
+| Instruction | inst | 0 = not tagged; 1 = tagged
+| Checks for understanding | cfu | 0 = not tagged; 1 = tagged
+| Active learning | active | 0 = not tagged; 1 = tagged
 | 
 
 
 ##Features in mind
-* Pizza
+* Evaluations page
+* Instructor dashboard when clicking on instructor
+* Campus dashboards 
