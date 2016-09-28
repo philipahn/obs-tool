@@ -1,7 +1,10 @@
 # obs-tool
-I guess we can build stuff here
+Problem: Observations are by natural informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations, 
 
-##Features
+Hypothesis: 
+
+
+##Features v1.1 MVP
 1. Log-in screen
 - [ ] Log-in with GA email
 
@@ -9,9 +12,10 @@ I guess we can build stuff here
 - [ ] List of instructors added to navigation bar
 - [ ] Filter by instructor
 - [ ] Add new instructor
-
-3. Add new instructor
-- [ ] Input Instructor Name
-- [ ] Choose metro: DC, ATL, CHI
-- [ ] Submit
-- [ ] Cancel
+    - Add new instructor
+      - [ ] Input Instructor Name
+      - [ ] Choose metro: DC, ATL, CHI
+      - [ ] Submit
+      - [ ] Cancel
+      
+      
