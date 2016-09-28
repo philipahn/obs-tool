@@ -58,3 +58,7 @@ Hypothesis:
 * Evaluations page
 * Instructor dashboard when clicking on instructor
 * Campus dashboards 
+* Filtering options
+  * Filter by Instance
+  * Filter by Metro
+ 
