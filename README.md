@@ -37,16 +37,21 @@ Hypothesis:
 
 ##Database Glossary
 
-| Variable  | Heading | Sample input
+| Variable  | Heading | Format/Sample
 --- | --- | ---
 | Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
 | Course Instance | instance | WDI13 | 
 | Metro | metro | DC, CHI, ATL | 
-| Unique instructor ID | sdfafd | 
---- | ---
-| Instructor name | 
---- | ---
-
+| Unique instructor ID | uniqueID | 00420 
+| Instructor name | inst_name | Andy Kim
+| Observation type | obs_type | 0 = observation; 1 = evaluation
+| Observation notes
+| Lesson Prep
+| Lesson Framing
+| Instruction
+| Checks for understanding
+| Active learning
+| 
 
 
 ##Features in mind
