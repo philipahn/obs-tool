@@ -37,7 +37,9 @@ Hypothesis:
 
 ##Database Glossary
 Variable | Data
-
+----------------
+Unique instructor ID | 
+Instructor name
 
 
 
