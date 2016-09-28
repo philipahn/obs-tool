@@ -50,8 +50,6 @@ An observation tool
 | Instruction | inst | 0 = not tagged; 1 = tagged
 | Checks for understanding | cfu | 0 = not tagged; 1 = tagged
 | Active learning | active | 0 = not tagged; 1 = tagged
-| 
-
 
 ##Features in mind
 * Instructor dashboard when clicking on instructor
