@@ -4,10 +4,10 @@ Observations at DC (and probably other campuses) are by nature, informal sit-ins
 An observation tool that easily organizes and compiles all observations as data points could lead to further data analysis and make the observation cycle transparent. Evaluators will have an easier time making observations and keeping track of his or her progress, while also holding everyone who makes observations accountable. Campus leaders and Global can keep track of not only how many observations are taking place, but what's going on by having access to evaluator notes. 
 
 ##Features v1.0 MVP (9/28)
-1. Log-in screen
+###1. Log-in screen
 - [ ] Log-in with GA email
 
-2. Navigation bar
+###2. Navigation bar
 - [ ] List of instructors added to navigation bar
 - [ ] Filter by instructor
 - [ ] Add new instructor
@@ -17,7 +17,7 @@ An observation tool that easily organizes and compiles all observations as data 
   - [ ] 'Cancel' button
 - [ ] List of all instructors (alphabetically) 
 
-3. Observation page (per instructor)
+###3. Observation page (per instructor)
 - [ ] View Instructor name
 - [ ] Add new observation - this would add a row to the database 
     - [ ] Create new observation text editor (place to input 
@@ -38,18 +38,23 @@ An observation tool that easily organizes and compiles all observations as data 
 
 | Variable  | Heading | Format/Sample
 --- | --- | ---
-| Date observation/evaluation was created | date_obs | MM/DD/YYYY 00:00 | 
+| Date observation/evaluation was created | obs_create | MM/DD/YYYY 00:00 | 
+| Created by | created_user | Philip Ahn
 | Course Instance | instance | WDI13 |
 | Metro | metro | DC, CHI, ATL |
+| Date of observation | obs_date | 
 | Unique instructor ID | uniqueID | 00420 
 | Instructor name | inst_name | Andy Kim
 | Observation type | obs_type | 0 = observation; 1 = evaluation
-| Observation notes | obs_notes | Any really particular string....
+| Observation notes | obs_notes | Nayana's student engagement is LOL
 | Lesson Prep | prep | 0 = not tagged; 1 = tagged
 | Lesson Framing | framing | 0 = not tagged; 1 = tagged  
 | Instruction | inst | 0 = not tagged; 1 = tagged
 | Checks for understanding | cfu | 0 = not tagged; 1 = tagged
 | Active learning | active | 0 = not tagged; 1 = tagged
+| Date new observation was edited | obs_edit | MM/DD/YYYY 0:00
+
+
 
 ##Features in mind
 * Instructor dashboard when clicking on instructor
@@ -65,4 +70,5 @@ An observation tool that easily organizes and compiles all observations as data 
 * Evaluations page - let's work on this way later
 * Make desktop shortcut
 * Optimize load speeds 
+* Setup database on server (so I can access stuff on postgresql) 
 * Make it pretty
