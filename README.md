@@ -38,14 +38,13 @@ An observation tool that easily organizes and compiles all observations as data 
 
 | Variable  | Heading | Format/Sample
 --- | --- | ---
-| Date observation/evaluation was created | obs_create | MM/DD/YYYY 00:00 | 
-| Created by | created_user | Philip Ahn
-| Course Instance | instance | WDI13 |
-| Metro | metro | DC, CHI, ATL |
-| Date of observation | obs_date | 
 | Unique instructor ID | uniqueID | 00420 
 | Instructor name | inst_name | Andy Kim
-| Observation type | obs_type | 0 = observation; 1 = evaluation
+| Course Instance | instance | WDI13 |
+| Date observation/evaluation was created | obs_create | MM/DD/YYYY 00:00 | 
+| Created by | created_user | Philip Ahn
+| Metro | metro | DC, CHI, ATL |
+| Date of observation | obs_date | 
 | Observation notes | obs_notes | Nayana's student engagement is LOL
 | Lesson Prep | prep | 0 = not tagged; 1 = tagged
 | Lesson Framing | framing | 0 = not tagged; 1 = tagged  
