@@ -3,11 +3,14 @@ Observations at DC (and probably other campuses) are by nature, informal sit-ins
 
 An observation tool that easily organizes and compiles all observations as data points could lead to further data analysis and make the observation cycle transparent. Evaluators will have an easier time making observations and keeping track of his or her progress, while also holding everyone who makes observations accountable. Campus leaders and Global can keep track of not only how many observations are taking place, but what's going on by having access to evaluator notes. 
 
-##Features v1.0 MVP (9/28)
-###1. Log-in screen
-- [ ] Log-in with GA email
+##Features v1.0 MVP (For 11/5)
 
-###2. Navigation bar
+###1. Creating instructor profile 
+- [ ] Input name
+- [ ] Input metro
+- [ ] Generate unique ID
+
+###2. Navigation bar 
 - [ ] List of instructors added to navigation bar
 - [ ] Filter by instructor
 - [ ] Add new instructor
@@ -17,7 +20,7 @@ An observation tool that easily organizes and compiles all observations as data 
   - [ ] 'Cancel' button
 - [ ] List of all instructors (alphabetically) 
 
-###3. Observation page (per instructor)
+###3. Observation page (per instructor) (by 10/20) 
 - [ ] View Instructor name
 - [ ] Add new observation - this would add a row to the database 
     - [ ] Create new observation text editor (place to input 
@@ -56,6 +59,7 @@ An observation tool that easily organizes and compiles all observations as data 
 
 
 ##Features in mind
+* Log-in with GA email
 * Instructor dashboard when clicking on instructor
 * Campus dashboards 
   * Count number of observations during quarter
