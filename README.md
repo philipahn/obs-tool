@@ -59,6 +59,8 @@ An observation tool that easily organizes and compiles all observations as data 
 
 
 ##Features in mind
+* Sync calendar with observations
+* Mark as complete when evaluator inputs observation
 * Log-in with GA email
 * Instructor dashboard when clicking on instructor
 * Campus dashboards 
