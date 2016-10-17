@@ -49,11 +49,11 @@ An observation tool that easily organizes and compiles all observations as data 
 | Metro | metro | DC, CHI, ATL |
 | Date of observation | obs_date | 
 | Observation notes | obs_notes | Nayana's student engagement is LOL
-| Lesson Prep | prep | 0 = not tagged; 1 = tagged
-| Lesson Framing | framing | 0 = not tagged; 1 = tagged  
-| Instruction | inst | 0 = not tagged; 1 = tagged
-| Checks for understanding | cfu | 0 = not tagged; 1 = tagged
-| Active learning | active | 0 = not tagged; 1 = tagged
+| Lesson Prep | prep | null = not tagged; 0/1/2 = tagged
+| Lesson Framing | framing | null = not tagged; 0/1/2 = tagged  
+| Instruction | inst | null = not tagged; 0/1/2 = tagged
+| Checks for understanding | cfu | null = not tagged; 0/1/2 = tagged
+| Active learning | active | null = not tagged; 0/1/2 = tagged
 | Date new observation was edited | obs_edit | MM/DD/YYYY 0:00
 
 
