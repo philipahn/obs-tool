@@ -6,7 +6,7 @@ An observation tool that easily organizes and compiles all observations as data 
 ##Features v1.0 MVP (For 11/5)
 
 ###1. Creating instructor profile 
-- [ ] Input name
+- [x] Input name
 - [ ] Input metro
 - [ ] Generate unique ID
 
@@ -21,20 +21,20 @@ An observation tool that easily organizes and compiles all observations as data 
 - [ ] List of all instructors (alphabetically) 
 
 ###3. Observation page (per instructor) (by 10/20) 
-- [ ] View Instructor name
-- [ ] Add new observation - this would add a row to the database 
-    - [ ] Create new observation text editor (place to input 
-        - [ ] Space to input Instance
-        - [ ] Space to input 'Date of class MM/DD/YY'
-        - [ ] Open text editor
+- [X] View Instructor name
+- [X] Add new observation - this would add a row to the database 
+    - [X] Create new observation text editor (place to input 
+        - [X] Space to input Instance
+        - [ ] Space to manually input 'Date of class MM/DD/YY'
+        - [X] Open text editor
         - [ ] Add outside the box: 
-            - [ ] New observation created by "Username"
-            - [ ] Last edited
+            - [X] New observation created by "Username"
+            - [X] Last edited
             - [ ] Delete observation function
-            - [ ] Edit observation function
-    - [ ] Tags that can be checked: Lesson Planning, Lesson Framing, Instruction, Checks for Understanding, Active Learning, Classroom Culture
+            - [X] Edit observation function
+    - [X] Tags that can be checked/graded: Lesson Planning, Lesson Framing, Instruction, Checks for Understanding, Active Learning, Classroom Culture
 - [ ] Return home (empty, soon to be dashboard)
-- [ ] Observations stack on top of each other and easy to browse through
+- [X] Observations stack on top of each other and easy to browse through
  
 
 ##Database Glossary
