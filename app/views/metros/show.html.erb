@@ -1,0 +1,6 @@
+<h2><%= link_to "Metros", metros_path %></h2>
+<h3><%= @metro.name %></h3>
+
+<% @metro.instructors.each do |instructor| %>
+    <p><%= link_to instructor.name, metro_instructor_path(@metro, instructor) %>  <%= link_to "(edit)", edit_metro_instructor_path(@metro, instructor) %></p>
+<% end %>

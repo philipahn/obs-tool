@@ -1,0 +1,23 @@
+<h2><%= link_to "Metros", metros_path %></h2>
+
+<h2><%= @instructor.name %></h2>
+<h3><%= @metro.name %></h3>
+
+<h3>Observations <%= link_to "(+)", new_instructor_observation_path(@instructor) %></h3>
+
+<% @instructor.observations.each do |observation| %>
+  <p>Course:<%= observation.instance %> </p>
+  <p>Created By: <%= observation.created_by %> </p>
+  <p>Date: <%= observation.obs_date %> </p>
+  <p>Notes: <%= observation.obs_notes %> </p>
+  <p>Prep: <%= observation.prep %> </p>
+  <p>Framing: <%= observation.framing %> </p>
+  <p>Instruction: <%= observation.inst %> </p>
+  <p>CFU: <%= observation.cfu %> </p>
+  <p>Active Learning: <%= observation.active %> </p>
+  <p>Date Edited: <%= observation.obs_edit %> </p>
+  <p><%= link_to "(edit)", edit_instructor_observation_path(@instructor, observation) %></p>
+  <p><%= link_to 'Delete', instructor_observation_path(@instructor, observation),
+        method: :delete,
+        data: { confirm: 'Are you sure?' } %></p>
+<% end %>

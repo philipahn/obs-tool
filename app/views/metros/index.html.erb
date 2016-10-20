@@ -1,0 +1,5 @@
+<h2><%= link_to "Metros", metros_path %></h2>
+
+  <% @metros.each do |metro| %>
+      <h3><%= link_to metro.name, metro_path(metro) %>
+  <% end %>

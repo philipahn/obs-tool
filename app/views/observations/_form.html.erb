@@ -1,0 +1,21 @@
+<%= form_for([@instructor, @observation]) do |f| %>
+
+  <%= f.label :instance %>
+  <%= f.text_field :instance %>
+  <%= f.label :created_by %>
+  <%= f.text_field :created_by %>
+  <%= f.label :obs_notes %>
+  <%= f.text_field :obs_notes %>
+  <%= f.label :prep %>
+  <%= f.text_field :prep %>
+  <%= f.label :framing %>
+  <%= f.text_field :framing %>
+  <%= f.label :inst %>
+  <%= f.text_field :inst %>
+  <%= f.label :cfu %>
+  <%= f.text_field :cfu %>
+  <%= f.label :active %>
+  <%= f.text_field :active %>
+  <%= f.submit %>
+
+<% end %>
