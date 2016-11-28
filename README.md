@@ -1,9 +1,9 @@
 # obs-tool
-Observations at DC (and probably other campuses) are by nature, informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations that an Instructional Leader may have to go through per-sitting, there's difficulty for campus leaders to keep track of obsrvations and keep all Instructional Leaders accountable. In order to keep track of all observations that are occurring  There's a need to maximize the efficiency of the 
+Observations at DC are by nature, informal sit-ins/recordings where evaluators assess instructor performance to gain insights of what's happening inside the classroom. In addition to the high volume of observations that an Instructional Leader may have to go through per-sitting, there's difficulty for campus leaders to keep track of obsrvations and keep all Instructional Leaders accountable. In order to keep track of all observations that are occurring and also analyze all data collected, there's a need to place all observations done on instructors in a centralized and organized database that analysts can pull information from. 
 
 An observation tool that easily organizes and compiles all observations as data points could lead to further data analysis and make the observation cycle transparent. Evaluators will have an easier time making observations and keeping track of his or her progress, while also holding everyone who makes observations accountable. Campus leaders and Global can keep track of not only how many observations are taking place, but what's going on by having access to evaluator notes. 
 
-##Features v1.0 MVP (For 11/5)
+##Features v1.0 MVP
 
 ###1. Creating instructor profile 
 - [x] Input name
@@ -35,7 +35,7 @@ An observation tool that easily organizes and compiles all observations as data 
     - [X] Tags that can be checked/graded: Lesson Planning, Lesson Framing, Instruction, Checks for Understanding, Active Learning, Classroom Culture
 - [ ] Return home (empty, soon to be dashboard)
 - [X] Observations stack on top of each other and easy to browse through
- 
+
 
 ##Database Glossary
 
